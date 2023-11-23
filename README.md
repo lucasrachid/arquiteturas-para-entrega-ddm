@@ -10,3 +10,4 @@ Formulário Google: https://docs.google.com/forms/d/e/1FAIpQLSesqMr45Z9Bsf5keVqe
 • MVVM: https://github.com/lucasrachid/arquitetura-mvvm<br>
 • Micro Serviços: https://github.com/lucasrachid/arquitetura-microservicos<br>
 • Monolítica: https://github.com/lucasrachid/arquitetura-monolitica<br>
+• Eventos: https://github.com/lucasrachid/arquitetura-eventos<br>
