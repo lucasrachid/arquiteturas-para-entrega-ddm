@@ -1,12 +1,12 @@
-# Arquiteturas para entrega - DDM
+# Arquiteturas para entrega - DDM<br>
 
-Formulário Google: 
+Formulário Google: <br>
 
-• 3 Camadas: https://github.com/lucasrachid/api-tres-camadas
-• MVC: 
-• Componentes:
-• Hexagonal: https://github.com/lucasrachid/hexagonal-architecture
-• SOA: 
-• MVVM: 
-• Micro Serviços: 
-• Monolítica: 
+• 3 Camadas: https://github.com/lucasrachid/api-tres-camadas<br>
+• MVC: <br>
+• Componentes:<br>
+• Hexagonal: https://github.com/lucasrachid/hexagonal-architecture<br>
+• SOA: <br>
+• MVVM: <br>
+• Micro Serviços: <br>
+• Monolítica: <br>
